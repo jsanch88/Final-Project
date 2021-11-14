@@ -59,18 +59,18 @@ const { ready, start } = useTimeout(5000, {controls: true});
 <div class="flex flex-col  space-y-12 items-center justify-center  min-h-screen-nonav">
 
 
-<div class="bg-pink-400 flex justify-center overflow-hidden items-center border-4 rounded-lg shadow-2xl ">
-<img class="h-64" src = "../assets/bglogin.png" alt = "Hello BG">
+<div class="bg-indigo-200 flex justify-center overflow-hidden items-center border-4 rounded-lg shadow-2xl ">
+<img class="h-64" src = "../assets/DiabetesLogin.jpg">
 <form @submit.prevent = "loggingIn" class = "flex flex-col p-4 space-y-4 ">
 
     <input
     name = "username"
-     type = "text" class = "bg-gray-100 border-2 rounded-lg" placeholder = "Email" v-model = "username" />
+     type = "text" class = "bg-gray-300 border-2 rounded-lg" placeholder = "Email" v-model = "username" />
      <span class = "text-indigo-700 text-center text-xs">{{emailError}}</span>
 
     <input
     name = "password"
-     type = "password"  class = "bg-gray-100 border-2 rounded-lg" placeholder = "Password" v-model = "password" />
+     type = "password"  class = "bg-gray-300 border-2 rounded-lg" placeholder = "Password" v-model = "password" />
      <span class = "text-indigo-700 text-center text-xs">{{passwordError}}</span>
 
     <div class = "flex space-x-2">
