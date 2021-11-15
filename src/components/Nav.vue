@@ -35,6 +35,7 @@ Oh Sugar<span class="bg bg-indigo-300 font-normal"></span>
 
             <router-link to = "/data">
             <li class="bg-pink-400 py-8 px-4 hover: cursor-pointer hover:bg-purple-900 hover:text-pink-700">Data</li></router-link>
+    
 
             <button  @click = "loggingOut">
             <li class="bg-pink-400 py-8 px-4 hover: cursor-pointer hover:bg-purple-900 hover:text-pink-700">Logout</li></button>
