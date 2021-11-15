@@ -17,7 +17,7 @@ const loggingOut = () => {
 <div class = "container mx-auto flex items-center justify-between">
 
 <h1 class="tracking-tighter text-3xl font-bold">
-Oh Sugar<span class="bg bg-indigo-300 font-normal"></span>
+Oh! Sugar<span class="bg bg-indigo-300 font-normal"></span>
 </h1>
     
     <nav>
