@@ -2,7 +2,7 @@
 
 
 <template>
-<div class="flex flex-col items-center justify-center  min-h-screen-nonav bg-indigo-100">
+<div class="flex flex-col items-center justify-center  min-h-screen-nonav bg-gradient-to-r from-purple-400 via-pink-500 to-red-500">
 <h2 class = "text-6xl tracking-tighter font-extralight">About</h2>
 <img src = "../assets/diabetes.png">
 </div>

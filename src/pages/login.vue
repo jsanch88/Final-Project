@@ -56,7 +56,7 @@ const { ready, start } = useTimeout(5000, {controls: true});
 </script>
 
 <template>
-<div class="flex flex-col  space-y-12 items-center justify-center  min-h-screen-nonav">
+<div class="flex flex-col  space-y-12 items-center justify-center  min-h-screen-nonav bg-gradient-to-r from-purple-400 via-pink-500 to-red-500">
 
 
 <div class="bg-indigo-200 flex justify-center overflow-hidden items-center border-4 rounded-lg shadow-2xl ">
