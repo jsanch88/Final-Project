@@ -57,7 +57,7 @@ const { ready, start } = useTimeout(5000, {controls: true});
 
 <template>
 <div class="flex flex-col  space-y-12 items-center justify-center  min-h-screen-nonav bg-gradient-to-r from-purple-400 via-pink-500 to-red-500">
-
+<h1 class="font-serif text-3xl text-white text-san text-font-bold">Login</h1>
 
 <div class="bg-indigo-200 flex justify-center overflow-hidden items-center border-4 rounded-lg shadow-2xl ">
 <img class="h-64" src = "../assets/DiabetesLogin.jpg">
