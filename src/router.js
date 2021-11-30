@@ -5,6 +5,7 @@ import Index from "./pages/index.vue";
 import About from "./pages/about.vue";
 import Management from "./pages/management.vue";
 import Login from "./pages/login.vue";
+import Chat from "./pages/chat.vue";
 import Secret from "./pages/data.vue";
 import NotFound from "./pages/404.vue";
 
@@ -30,6 +31,11 @@ const routes = [
         path: "/login",
         name:"Login",
         component: Login,
+    },
+    {
+        path: "/chat",
+        name:"Chat",
+        component: Chat,
     },
     {
         path: "/data",

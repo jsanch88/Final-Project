@@ -6,9 +6,9 @@
 <h2 class = "text-6xl tracking-tighter font-extralight">About</h2>
 <img src = "../assets/diabetes.png">
 </div>
-<div class = "text-center text-xl bg-gray-100">
+<div class = "text-center text-xl bg-gradient-to-r from-indigo-600 via-pink-300 to to-blue-100">
 <p>
-Diabetes is not a matter to be taken lightly. At Oh Sugar we believe that the best way to manage your diabetes is to keep track of your glucose levels. We are in a day and age that having to take out a notepad with a pen to record your glucose is something a little more outdated these days. 
+At Oh! Sugar we are here to help with your controlling your diabetes. We offer an online platform to record your glucose readings. We also have tips on how to manage your glucose. Sign up is free and we also offer chatting with one of our friendly staff that can help you navigate your journey with diabetes. You can do it and we are here to help!
 </p>
 </div>
 </template>

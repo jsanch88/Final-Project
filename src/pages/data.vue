@@ -3,7 +3,7 @@
 <img src = "../assets/Results.jpg" >
 </div>
   <p class="text-center">
-    This page will house the data for the glucose levels. It will also hold how person is feeling as well.
+    Lets chart that glucose!
   </p>
 
     <input
