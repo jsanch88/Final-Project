@@ -20,6 +20,8 @@
 
 <template>
   <h1 class="text-6xl font-extralight tracking-tighter text-center mt-8 bg-gradient-to-r from-purple-400 via-pink-500 to-indigo-500 rounded-xl">Oh! Sugar, Chat platform</h1>
+  <h2 class="text-3xl font-serif tracking-tighter text-center mt-8 bg-gradient-to-r from-indigo-600 via bg-yellow-300 to-purple-900 rounded-xl text-white">Chat with other 
+  people managing their diabetes or one of our staff as well.</h2>
   <div
     class="
       min-h-[500px]

@@ -2,8 +2,8 @@
 <div class = "bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 flex-auto">
 <img src = "../assets/Results.jpg" >
 </div>
-  <p class="text-center">
-    Lets chart that glucose!
+  <p class="text-center bg-gradient-to-r from-indigo-900 via-blue-400 to-pink-700 ">
+    Lets chart that glucose! Keeping track of your glucose helps you understand how foods, exercise and life affect you.
   </p>
 
     <input
